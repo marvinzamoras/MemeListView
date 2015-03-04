@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewProject</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles" >
+        <item>No Copyright</item>
+        <item>Fart</item>
+        <item>LinkedIn</item>
+        <item>Internet</item>
+        <item>Love is in the what?</item>
+        <item>Berries</item>
+        <item>Thug life</item>
+        <item>Nursing</item>
+        <item>Healthcare</item>
+        <item>Toasters</item>
+    </string-array>
+    
+    <string-array name="descriptions">
+        <item>Oh, you put No Copyright infrigement intended on your video. You must be a legal expert</item>
+        <item>The moment when you realize it wasnt a fart.</item>
+        <item>I dont know who you are, but I will look you up on LinkedIn and I will find you.</item>
+        <item>What if I told you the internet is more than porn and facebook.</item>
+        <item>Love is in the air? Wrong. Nitrogen, Oxygen and Carbon Dioxide are in the air.</item>
+        <item>What if the first person who ate the poison berries was just allergic and were missing out on a delicious berry?</item>
+        <item>I didnt choose the thug life. The thug life chose me.</item>
+        <item>The look I give my patient when theyre trying to get out of bed</item>
+        <item>So youre telling me that your govt. can process data from the hundreds of billions of people it spys on but it cant create a functioning website to provide its own citizens with healthcare?</item>
+        <item>Dude, toasters are like tanning beds for bread.</item>
+    </string-array>
+
+</resources>
